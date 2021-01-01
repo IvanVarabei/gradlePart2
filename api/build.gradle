@@ -5,8 +5,8 @@ plugins {
 
 mainClassName = 'by.epam.runner.App'
 
-sourceCompatibility = 14
-targetCompatibility = 14
+sourceCompatibility = 11
+targetCompatibility = 11
 
 repositories {
     mavenCentral()
