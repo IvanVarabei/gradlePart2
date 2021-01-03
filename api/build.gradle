@@ -4,6 +4,10 @@ plugins {
 
 mainClassName = 'by.epam.runner.App'
 
+repositories {
+    mavenCentral()
+}
+
 dependencies {
     implementation  group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.1'
     implementation project(":core")
