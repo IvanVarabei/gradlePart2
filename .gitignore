@@ -3,7 +3,6 @@
 gradle/
 gradlew
 gradlew.bat
-settings.gradle
 api/build/
 core/build/
 
